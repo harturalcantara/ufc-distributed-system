@@ -1,2 +1,2 @@
-# ufc-sistemas-distribuidos
-Implementações de trabalhos/exercícios da disciplina Sistemas Distribuídos do semestre 2019.2 (UFC-Campus Crateús).
+# ufc-distributed-system
+Implementations of works and exercises of the discipline Distributed Systems of the semester 2019.2 at Federal University of Ceará (Campus Crateús).
